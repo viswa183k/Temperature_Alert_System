@@ -1,0 +1,32 @@
+# 🌡️ Temperature Alert System using DHT11 and Arduino
+
+This Arduino project reads temperature using a DHT11 sensor and activates a buzzer alarm when the temperature exceeds a predefined threshold (30°C). It's ideal for basic thermal monitoring applications.
+
+---
+
+## 🧠 Features
+
+- Reads temperature using the **DHT11 sensor**
+- Activates a **buzzer** if the temperature > 30°C
+- Sends real-time data to **Serial Monitor**
+- Compact and beginner-friendly temperature alert logic
+
+---
+
+## 🔌 Circuit Components
+
+| Component | Arduino Pin |
+|----------|-------------|
+| DHT11    | D2          |
+| Buzzer   | D9          |
+
+---
+
+## 📟 Serial Output Example
+
+
+---
+
+## 📜 License
+
+This project is open-source and free to use for learning and non-commercial applications.
